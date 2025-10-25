@@ -77,7 +77,7 @@ The data used for this dashboard contains the following columns:
 ## 💡 How to Use / View the Dashboard  
 
 ### Option 1 — View Online  
-If published via Power BI Service:  
+Published via Power BI Service:  
 👉 https://app.powerbi.com/links/ucdxh-7H07?ctid=b1147ebc-723a-4081-b981-f0ae8a56561e&pbi_source=linkShare&bookmarkGuid=06414e54-80f8-495b-853b-3de4715a7bf5
 
 ### Option 2 — View Locally  
